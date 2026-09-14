@@ -112,7 +112,7 @@ The final result should be polished enough to show a potential freelance client 
 
 This project was built with [Lovable](https://lovable.dev).
 
-**Live app**: https://ironcore-premium-build.lovable.app
+**Live app**: https://ironcore-fitness-gym.vercel.app/
 
 ## Build with Lovable
 
